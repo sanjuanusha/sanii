@@ -7,7 +7,7 @@ class sani
 		{
 			for(int j=0;j<=2;j++)
 			{
-				System.out.println(a[i][j]);
+				System.out.println("sum=",a[i][j]);
 				System.out.print(" ");
 			}
 			System.out.println("\n");
